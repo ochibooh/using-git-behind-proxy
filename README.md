@@ -5,12 +5,8 @@ We are going to look at how to configure git to work behind a proxy network.
 ### Configure
 Setup proxy for global use. This will be used by all repos.
 
-,,,
-git config --global http.proxy http://user-name:password@server-ip:port
-,,,
+```git config --global http.proxy http://user-name:password@server-ip:port```
 
 or
-,,,
-git config --global http.proxy http://server-ip:port
-,,,
+```git config --global http.proxy http://server-ip:port```
 
