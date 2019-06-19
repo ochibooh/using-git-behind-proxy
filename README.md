@@ -13,3 +13,7 @@ or
 git config --global http.proxy http://server-ip:port
 ```
 
+Setup for current repository. To be used by only one repository
+
+```
+```
