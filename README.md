@@ -8,5 +8,6 @@ Setup proxy for global use. This will be used by all repos.
 ```git config --global http.proxy http://user-name:password@server-ip:port```
 
 or
+
 ```git config --global http.proxy http://server-ip:port```
 
